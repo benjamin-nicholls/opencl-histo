@@ -1,0 +1,27 @@
+#CMake
+build
+
+#Visual Studio
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/*
+x86/*
+bld/
+[Oo]bj/
+.vs
+desktop.ini
+
+*.opensdf
+*.sdf
+*.suo
+*.user
+
+!x64/glut32.dll
+!x86/glut32.dll
+
+parallel-workshops/
+Tutorial 1/
+Tutorial 3/
+Tutorial 4/
