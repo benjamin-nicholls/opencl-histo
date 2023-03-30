@@ -1,4 +1,4 @@
-# OpenCL Digital Enhancement Program – Histogram Equalisation 
+#  opencl-histo
 
 ## CMP3752 Parallel Programming - Assessment 1 - OpenCL Digital Enhancement Program – Histogram Equalisation 
 
